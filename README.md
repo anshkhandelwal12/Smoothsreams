@@ -85,7 +85,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Authors
 
-* **Rohan Sawant** [CT83](https://github.com/CT83)
+* **Ansh khandelwal** [CT83](https://github.com/CT83)
 
 
 ## License
